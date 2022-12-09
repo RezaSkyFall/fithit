@@ -104,14 +104,14 @@ const Footer = () => {
                     </Stack>
                   </Paper>
 
-                  <List>
+                  {/* <List>
                     <ListItemButton>
                       <ListItemIcon>
                         <PhoneEnabled />
                       </ListItemIcon>
                       <ListItemText>0933-116-3183</ListItemText>
                     </ListItemButton>
-                  </List>
+                  </List> */}
                 </Stack>
               </Grid>
             </Grid>
