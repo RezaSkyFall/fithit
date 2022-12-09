@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="512" height="501.798" transform="translate(-16 -9)" fill="#fff"/>
+    </clipPath>
+    <filter id="Path_2" x="18.023" y="12.201" width="486.086" height="486.02" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_3" x="192.642" y="223.319" width="136.851" height="136.85" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Artboard_5">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_5" data-name="Artboard – 5" clip-path="url(#clip-Artboard_5)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="256" cy="256" r="256" fill="none"/>
+    <g id="Logo" transform="translate(16 9)" clip-path="url(#clip-path)">
+      <path id="Path_1" data-name="Path 1" d="M100.879,448.554a91.427,91.427,0,0,1-83.425-91.07V203.644a91.425,91.425,0,0,1,35.98-72.693L177.769,36.119a91.423,91.423,0,0,1,110.887,0l8.411,6.415A91.322,91.322,0,0,0,232.625,60.8L84.753,173.586a31.623,31.623,0,0,0-12.444,25.142V382.162a91.161,91.161,0,0,0,28.571,66.387Z" transform="translate(11.854 7.028)" fill="none"/>
+      <g transform="matrix(1, 0, 0, 1, -16, -9)" filter="url(#Path_2)">
+        <path id="Path_2-2" data-name="Path 2" d="M358.382,468.02H109.708A109.833,109.833,0,0,1,0,358.312V204.473a110.341,110.341,0,0,1,43.176-87.231L167.51,22.409a109.973,109.973,0,0,1,133.064,0l39.518,30.115V29.189a18.285,18.285,0,1,1,36.569,0V89.447A18.286,18.286,0,0,1,347.3,103.987L278.4,51.491a73.319,73.319,0,0,0-88.717,0L65.352,146.32a73.555,73.555,0,0,0-28.783,58.153V358.312a73.227,73.227,0,0,0,73.139,73.139H358.382a73.226,73.226,0,0,0,73.139-73.139V204.473a73.611,73.611,0,0,0-28.459-58.351,18.285,18.285,0,1,1,22.178-29.076c26.832,20.464,42.847,53.148,42.847,87.429V358.312a109.832,109.832,0,0,1-109.7,109.708Z" transform="translate(27.02 15.2)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -16, -9)" filter="url(#Path_3)">
+        <path id="Path_3-2" data-name="Path 3" d="M212.4,224.382a22.855,22.855,0,1,1-6.694-16.161A22.851,22.851,0,0,1,212.4,224.382Zm50.285-22.855a22.857,22.857,0,1,0,16.16,6.694,22.859,22.859,0,0,0-16.16-6.694Zm-73.139,73.139a22.866,22.866,0,1,0,8.745,1.741,22.858,22.858,0,0,0-8.745-1.741Zm73.139,0a22.866,22.866,0,1,0,8.745,1.741,22.858,22.858,0,0,0-8.745-1.741Z" transform="translate(34.96 24.79)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

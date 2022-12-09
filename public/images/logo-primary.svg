@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="412.322" height="404.106" transform="translate(-16 -9)" fill="#fff"/>
+    </clipPath>
+    <filter id="Path_2" x="62.762" y="63.242" width="394.957" height="394.903" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_3" x="203.386" y="233.258" width="113.712" height="113.712" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Instagram_Post_22">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="Instagram_Post_22" data-name="Instagram Post – 22" clip-path="url(#clip-Instagram_Post_22)">
+    <g id="Logo" transform="translate(66 63)" clip-path="url(#clip-path)">
+      <path id="Path_1" data-name="Path 1" d="M84.638,364.613a73.628,73.628,0,0,1-67.184-73.34V167.383a73.626,73.626,0,0,1,28.975-58.54l100.129-76.37a73.625,73.625,0,0,1,89.3,0l6.774,5.166a73.543,73.543,0,0,0-51.9,14.708L71.651,143.177a25.466,25.466,0,0,0-10.022,20.247V311.147a73.414,73.414,0,0,0,23.009,53.463Z" transform="translate(3.033 0.522)" fill="none"/>
+      <g transform="matrix(1, 0, 0, 1, -66, -63)" filter="url(#Path_2)">
+        <path id="Path_2-2" data-name="Path 2" d="M288.611,376.9H88.35A88.45,88.45,0,0,1,0,288.554V164.665A88.859,88.859,0,0,1,34.77,94.417L134.9,18.046a88.563,88.563,0,0,1,107.159,0L273.882,42.3V23.507a14.725,14.725,0,1,1,29.45,0V72.033a14.726,14.726,0,0,1-23.649,11.71L224.2,41.467a59.045,59.045,0,0,0-71.445,0L52.629,117.834A59.235,59.235,0,0,0,29.45,164.665V288.554a58.97,58.97,0,0,0,58.9,58.9H288.611a58.97,58.97,0,0,0,58.9-58.9V164.665a59.28,59.28,0,0,0-22.918-46.991,14.725,14.725,0,1,1,17.86-23.415,88.887,88.887,0,0,1,34.505,70.408V288.554a88.449,88.449,0,0,1-88.346,88.35Z" transform="translate(71.76 66.24)" fill="#3d5afe"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -66, -63)" filter="url(#Path_3)">
+        <path id="Path_3-2" data-name="Path 3" d="M203.5,219.933a18.406,18.406,0,1,1-5.391-13.015A18.4,18.4,0,0,1,203.5,219.933Zm40.495-18.406a18.407,18.407,0,1,0,13.014,5.391,18.409,18.409,0,0,0-13.014-5.391Zm-58.9,58.9a18.415,18.415,0,1,0,7.043,1.4,18.408,18.408,0,0,0-7.043-1.4Zm58.9,0a18.415,18.415,0,1,0,7.043,1.4,18.408,18.408,0,0,0-7.043-1.4Z" transform="translate(45.7 34.73)" fill="#2979ff"/>
+      </g>
+    </g>
+  </g>
+</svg>

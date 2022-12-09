@@ -2,6 +2,12 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
+  images:{
+    domains:[
+      'vilanil.ir'
+    ]
+  }
+  
 }
 
 module.exports = nextConfig
