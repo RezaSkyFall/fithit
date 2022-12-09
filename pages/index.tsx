@@ -75,7 +75,7 @@ const Home: NextPage = () => {
   return (
     <Stack spacing={6}>
       <Head>
-        <title>ویلانیل | خدمات باغ و ویلا در اصفهان</title>
+        <title>ویلانیل : خدمات باغ و ویلا در اصفهان</title>
       </Head>
 
       <Stack>
